@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tashkeelsaee-max.github.io/Asaantools/sitemap.xml
